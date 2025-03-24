@@ -1,6 +1,5 @@
 import unittest
-from src.main.car_simulation import rotate_left, rotate_right, move_forward, run_commands
-from 
+from ..main.car_simulation import rotate_left, rotate_right, move_forward, run_commands
 
 class TestCarSimulationFunctions(unittest.TestCase):
 
